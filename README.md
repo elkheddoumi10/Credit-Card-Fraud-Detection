@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-Credit Card Fraud Detection using TansorFlow and Kggle Data
+Credit Card Fraud Detection using TansorFlow and Data from Kaggle 
